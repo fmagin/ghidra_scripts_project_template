@@ -1,0 +1,1 @@
+# Simple PoC for Gradle Project for Ghidra Script development
